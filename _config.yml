@@ -20,9 +20,9 @@ source-code: https://github.com/celattin/capstone-2
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Capstone Project 
+title: Vinyl Record Collection 
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a digital library
+tagline: a digital library capstone project
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "This project creates a digital library through structured data."
