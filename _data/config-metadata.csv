@@ -1,10 +1,10 @@
 field,display_name,browse_link,external_link
 title,Title,
-creator,Creator,
-date,Date Created,
-description,Description,
-subject,Subjects,true
-location,Location
+creator, Artist/Creator,
+date,Date Released,
+description,Vinyl Description,
+subject,Genres,true
+location,Origin
 latitude,Latitude
 longitude,Longitude
 source,Source
