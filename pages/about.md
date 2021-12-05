@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://celattin.github.io/capstone-2/item.html?id=coll019" %}
+{% include feature/jumbotron.html objectid="coll019" %}
 
 {% include feature/nav-menu.html sections="About the Collection" %}
 
